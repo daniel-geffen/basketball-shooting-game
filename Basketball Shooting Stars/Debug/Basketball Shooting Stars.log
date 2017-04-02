@@ -1,0 +1,14 @@
+﻿Build started 14/3/2017 10:20:26.
+     1>Project "C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Basketball Shooting Stars\Basketball Shooting Stars.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling Source.asm...
+         cmd.exe /C "C:\Users\tuvia\AppData\Local\Temp\tmpb63f18f56b4749f1806cdc68d1ac1785.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Source.obj" /W3 /errorReport:prompt  /TaSource.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Debug\Basketball Shooting Stars.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Debug\Basketball Shooting Stars.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Debug\Basketball Shooting Stars.lib" /MACHINE:X86 Debug\Source.obj
+         Basketball Shooting Stars.vcxproj -> C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Debug\Basketball Shooting Stars.exe
+     1>Done Building Project "C:\Users\tuvia\documents\visual studio 2013\Projects\Basketball Shooting Stars\Basketball Shooting Stars\Basketball Shooting Stars.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
